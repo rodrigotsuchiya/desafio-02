@@ -1,0 +1,35 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+main{
+  border: 1px solid #CCC;
+}
+#image_background{
+  height: 500px;
+  background: url("cidade.jpg");
+  text-align: center;
+}
+.justify{
+  text-align: justify;
+}
+
+.column{
+  float: left;
+  padding: 0 5%;
+  position: relative;
+}
+
+.tow {
+  width: 40%;
+  padding: 10px 10px;
+  margin: 0;
+}
+
+.three{
+  width: 29%;
+}
+
+.four {
+  width: 15%;
+}
